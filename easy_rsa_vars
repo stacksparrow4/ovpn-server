@@ -1,0 +1,8 @@
+set_var EASYRSA_REQ_COUNTRY    "AU"
+set_var EASYRSA_REQ_PROVINCE   "NSW"
+set_var EASYRSA_REQ_CITY       "Sydney"
+set_var EASYRSA_REQ_ORG        "UNSWSecsoc"
+set_var EASYRSA_REQ_EMAIL      "admin@example.com"
+set_var EASYRSA_REQ_OU         "Community"
+set_var EASYRSA_ALGO           "ec"
+set_var EASYRSA_DIGEST         "sha512"
