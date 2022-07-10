@@ -8,4 +8,5 @@ Disclaimer: This is not meant to be secure. Do not use this for sensitive data.
 
 `./generate.sh` - Generate keys, certificates, and a single ovpn client config.
 Outputs to `dist/`.
+
 `./run.sh` - Uses the generate keys to start an openvpn server.
